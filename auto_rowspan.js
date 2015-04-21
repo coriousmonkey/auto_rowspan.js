@@ -1,3 +1,5 @@
+/* created by haris */
+/* i hope it's help your problem */
 function auto_row_span(idtabel,kolom){
 var arr = [];
 var n=0;
